@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I know HTML & CSS<br>🌱 I’m currently learning Python<br>⚡ Fun fact , Hüdavendigar is title of the I.Murat who was ottoman sultan.
+🔭  HTML,CSS,Python<br>⚡ Fun fact , Hüdavendigar is title of the I.Murat who was ottoman sultan.
 
 
 # 💻 Tech Stack:
